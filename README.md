@@ -25,5 +25,6 @@ Recursion & Dynamic Programming
 🛠️ Small Python-based projects, including:
 
 Calculator (Tkinter-based)
+Sample Notepad(Tkinter-based)
 📂 File Organizer (Automates file sorting)
 🎲 Simple Games (Rock-Paper-Scissors, Tic-Tac-Toe)
