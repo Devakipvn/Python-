@@ -19,3 +19,11 @@ File Handling
 Lists, Tuples, Dictionaries, Sets
 Sorting & Searching Algorithms
 Recursion & Dynamic Programming
+
+3️⃣ Minor Projects
+
+🛠️ Small Python-based projects, including:
+
+Calculator (Tkinter-based)
+📂 File Organizer (Automates file sorting)
+🎲 Simple Games (Rock-Paper-Scissors, Tic-Tac-Toe)
